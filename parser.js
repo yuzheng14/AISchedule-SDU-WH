@@ -12,10 +12,10 @@ function scheduleHtmlParser(html) {
         // 记录节次
         count++
         console.log(count)
-        let reg = /(?<=<br>).*?(?=<br>)/
+        let reg = /(?<=<br>)[\u4e00-\u9fa5]*?(?=<br>)/
         let courses = $(this).html().split("---------------------")
         for (let i = 0; i < courses.length; i++) {
-            origin_name = $(this).html().match(reg)
+            origin_name = courses[i].match(reg)
             if (origin_name != null) {
                 let origin_week = $(this).find("font[title='周次(节次)']").html()
                 let week = []
