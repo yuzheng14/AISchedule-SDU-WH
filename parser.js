@@ -15,6 +15,7 @@ function scheduleHtmlParser(html) {
         let reg = /(?<=<br>)[\u4e00-\u9fa5]*?(?=<br>)/
         let courses = $(this).html().split("---------------------")
         for (let i = 0; i < courses.length; i++) {
+            //TODO 更改$(this).
             origin_name = courses[i].match(reg)
             if (origin_name != null) {
                 let origin_week = $(this).find("font[title='周次(节次)']").html()
