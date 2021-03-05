@@ -1,3 +1,6 @@
+/**
+ * 山东大学（威海）小爱同学课程表parser函数
+ */
 var count = -1;
 
 function scheduleHtmlParser(html) {
