@@ -9,9 +9,8 @@
 ## 更新说明
 
 ## 文件目录结构
->│   parser.js              parser函数  
->│   provider.js            provider函数  
->│   README.md              README  
+>│   parser.js  
+>│   provider.js  
+>│   README.md  
 >│   
->└───.dist                  vscode自动创建  
-
+>└───.dist
