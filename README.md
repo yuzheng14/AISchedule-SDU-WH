@@ -7,18 +7,18 @@
 
 ## 使用说明
 ##### 点击教务处导入
-![](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/1.png)
+![图片加载失败](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/1.png)
 ##### 登录个人信息化门户
-![](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/2.png)
+![图片加载失败](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/2.png)
 
 ##### 定位到当前学期理论课表
-![](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/3.png)
+![图片加载失败](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/3.png)
 
 ##### 点击一键导入
-![](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/4.png)
+![图片加载失败](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/4.png)
 
 ##### 导入成功
-![](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/5.png)
+![图片加载失败](https://github-yuzheng14.oss-cn-beijing.aliyuncs.com/AISchedule-SDU-WH/5.png)
 
 ## 更新说明
 
