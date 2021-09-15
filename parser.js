@@ -62,8 +62,10 @@ function scheduleHtmlParser(html) {
                 // modify_name = JSON.stringify(course_name)
                 // modify_name = modify_name.slice(2, modify_name.length - 2)
                 // 判断是否存在上课老师和地点并进行赋值
+                // 若不存在上课地点则赋空字符串
                 let course_position=courses[i].match(reg_position)
                 if(course_position!=null) course_position=courses[i].match(reg_position)[0]
+                else course_position=""
                 let course_teacher=courses[i].match(reg_teacher)
                 if(course_teacher!=null) course_teacher=courses[i].match(reg_teacher)[0]
                 // 组装数据
