@@ -68,6 +68,7 @@ function scheduleHtmlParser(html) {
                 else course_position=""
                 let course_teacher=courses[i].match(reg_teacher)
                 if(course_teacher!=null) course_teacher=courses[i].match(reg_teacher)[0]
+                else course_teacher=""
                 // 组装数据
                 let course = {
                     name: course_name,
